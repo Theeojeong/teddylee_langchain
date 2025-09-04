@@ -1,0 +1,8 @@
+openai==1.67.0
+faiss-cpu==1.8.0.post1
+numpy==1.26.4
+pandas==2.2.3
+pyarrow==19.0.1
+datasets==2.20.0
+python-dotenv==1.0.1
+tqdm==4.66.5
